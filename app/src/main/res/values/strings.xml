@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roga labs</string>
+    <string name="titulo_principal">Postagens recentes</string>
+    <string name="titulo_secundario">Postagem selecionada</string>
+    <string name="title_label">Titulo</string>
+    <string name="post_label">Descrição</string>
+</resources>
